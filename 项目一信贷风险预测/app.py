@@ -100,6 +100,7 @@ st.write(y_train.value_counts())
 
 st.subheader("处理后的训练集信息（过采样后）")
 st.write(X_train.info())
+# 123
 
 # 导入所需的库
 import numpy as np  
